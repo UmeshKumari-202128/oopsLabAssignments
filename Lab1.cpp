@@ -17,6 +17,7 @@ int main(){
    int a[10][10],m,n,i,j;
    cout<<"Enter the value of m and n : ";
    cin>>m>>n;
+   cout<<"Enter the elements of matrix : ";
    getarray(a,m,n);
    cout<<endl;
    cout<<"You have entered the following matrix"<<endl;
